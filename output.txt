@@ -1,0 +1,54 @@
+Block extended for a total of 8 pointers
+Block extended for a total of 12 pointers
+Block extended for a total of 16 pointers
+Block extended for a total of 20 pointers
+        17 strings in the block:
+                1 of 17: 'full path of program'
+                2 of 17: 'Creating'
+                3 of 17: 'a'
+                4 of 17: 'block'
+                5 of 17: 'of'
+                6 of 17: 'strings'
+                7 of 17: ','
+                8 of 17: 'just'
+                9 of 17: 'like'
+                10 of 17: 'the'
+                11 of 17: 'system'
+                12 of 17: 'does'
+                13 of 17: 'for'
+                14 of 17: 'main()'
+                15 of 17: 'for'
+                16 of 17: 'every'
+                17 of 17: 'program'
+        20 pointers allocated
+        17 arguments read
+        3 pointers to free
+        Block size trimmed for a total of 17 pointers
+        Calling just_like_main() with these args
+
+        At "main()": 17 arguments
+
+       0        'full path of program'
+       1        'Creating'
+       2        'a'
+       3        'block'
+       4        'of'
+       5        'strings'
+       6        ','
+       7        'just'
+       8        'like'
+       9        'the'
+      10        'system'
+      11        'does'
+      12        'for'
+      13        'main()'
+      14        'for'
+      15        'every'
+      16        'program'
+
+
+        "main()" returned 0
+        Now fres the block and exit
+
+
+Game over
